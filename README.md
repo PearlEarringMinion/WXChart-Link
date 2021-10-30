@@ -1,6 +1,6 @@
 
 # WeatherChart Link App
-this APP is link collection for each exclucive weather chart.
+This APP is link collection for each exclucive weather chart.
 Moreover link of information of weather published by Japan Meteological Agent are collectioned.
 
 # Description
