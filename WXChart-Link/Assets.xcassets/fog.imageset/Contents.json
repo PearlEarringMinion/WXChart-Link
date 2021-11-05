@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "天気図リンクアイコン.012-1.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "天気図リンクアイコン.012-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "天気図リンクアイコン.012.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
